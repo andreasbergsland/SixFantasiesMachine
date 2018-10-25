@@ -34,7 +34,7 @@
 <CsoundSynthesizer>
 
 <CsOptions>
--m0 -odac0 -b2048 -B4096 --omacro:Path=/Users/andber/Documents/Prosjekt/SixFantasiesMachine
+-m0 -odac0 -b2048 -B4096
 </CsOptions>
 
 <CsInstruments>
